@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|c:\\users\\user\\documents\\ilija\\fakultet\\iv semestar\\vp\\auds\\aud2\\quizapp\\quizapp\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\leaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\quizapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\quizapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\mainmenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\quizapp\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{54AD3A02-BF86-4134-9455-9CED76C779C8}|QuizApp\\QuizApp.csproj|solutionrelative:quizapp\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizAPIClient.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizAPIClient.cs",
+              "RelativeDocumentMoniker": "QuizApp\\QuizAPIClient.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizAPIClient.cs",
+              "RelativeToolTip": "QuizApp\\QuizAPIClient.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwEQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:32:33.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "QuizApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "QuizApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-06T12:33:56.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.cs",
+              "RelativeDocumentMoniker": "QuizApp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.cs",
+              "RelativeToolTip": "QuizApp\\MainMenu.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAgwFoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:53:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainMenu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.Designer.cs",
+              "RelativeDocumentMoniker": "QuizApp\\MainMenu.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.Designer.cs",
+              "RelativeToolTip": "QuizApp\\MainMenu.Designer.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAD4v2gAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:49:05.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.cs",
+              "RelativeDocumentMoniker": "QuizApp\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\MainMenu.cs [Design]",
+              "RelativeToolTip": "QuizApp\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T11:43:42.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Leaderboard.cs",
+              "RelativeToolTip": "QuizApp\\Leaderboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:21:18.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Leaderboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Leaderboard.cs",
+              "RelativeDocumentMoniker": "QuizApp\\Leaderboard.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\Leaderboard.cs [Design]",
+              "RelativeToolTip": "QuizApp\\Leaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:21:10.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizForm.cs",
+              "RelativeDocumentMoniker": "QuizApp\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizForm.cs",
+              "RelativeToolTip": "QuizApp\\QuizForm.cs",
+              "ViewState": "AQIAAF8BAAAAAAAAAAAwwHIBAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:59:23.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuizForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizForm.cs",
+              "RelativeDocumentMoniker": "QuizApp\\QuizForm.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Ilija\\Fakultet\\IV Semestar\\VP\\AUDS\\aud2\\QuizApp\\QuizApp\\QuizForm.cs [Design]",
+              "RelativeToolTip": "QuizApp\\QuizForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:57:48.101Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
