@@ -120,15 +120,15 @@ namespace QuizApp
 
         private void PreviousButton_Click(object sender, EventArgs e)
         {
-            currentQuestionIndex--;
             SaveCurrentQuestionAnswers();
+            currentQuestionIndex--;
             DisplayQuestion();
             UpdateCurrentButtonOutline(questionButtons[currentQuestionIndex]);
         }
         private void NextButton_Click(object sender, EventArgs e)
         {
-            currentQuestionIndex++;
             SaveCurrentQuestionAnswers();
+            currentQuestionIndex++;
             DisplayQuestion();
             UpdateCurrentButtonOutline(questionButtons[currentQuestionIndex]);
 
@@ -346,7 +346,7 @@ namespace QuizApp
                 CalculateScore();
                 Leaderboard leaderboard = new Leaderboard();
                 double scoreToSave = ((double)score / (5.0 * numQuestions)) * 100.0 - (secondsPassed / 10.0);
-                //leaderboard.SaveScore(username, scoreToSave < 0 ? 0 : scoreToSave); - to implement
+                leaderboard.SaveScore(username, scoreToSave < 0 ? 0 : scoreToSave);
                 DialogResult result = MessageBox.Show("Do you want to view the leaderboard or review your answers?", "Quiz Completed", MessageBoxButtons.YesNoCancel);
                 if (result == DialogResult.Yes)
                 {
@@ -368,7 +368,7 @@ namespace QuizApp
 
         private void ShowLeaderboard()
         {
-            //Leaderboard.ShowLeaderboard(); - to implement
+            Leaderboard.ShowLeaderboard();
         }
 
         private void timerTimePassed_Tick(object sender, EventArgs e)

@@ -88,7 +88,7 @@ namespace QuizApp
 
         private void pbLeaderboard_Click(object sender, EventArgs e)
         {
-            //Leaderboard.ShowLeaderboard(); - to implement
+            Leaderboard.ShowLeaderboard();
         }
 
         private void txtBoxUsername_Enter(object sender, EventArgs e)
@@ -96,7 +96,7 @@ namespace QuizApp
             if (txtBoxUsername.Text.Equals("Enter your username here"))
             {
                 txtBoxUsername.Text = "";
-                txtBoxUsername.ForeColor = System.Drawing.SystemColors.WindowText; // Set text color to default
+                txtBoxUsername.ForeColor = System.Drawing.SystemColors.WindowText; 
             }
 
         }
