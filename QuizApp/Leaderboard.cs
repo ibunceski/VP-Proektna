@@ -14,8 +14,8 @@ namespace QuizApp
 {
     public partial class Leaderboard : Form
     {
-
-
+	
+	
         private string filePath = "leaderboard.txt";
 
         public Leaderboard()
@@ -70,7 +70,6 @@ namespace QuizApp
             Leaderboard leaderboardForm = new Leaderboard();
             leaderboardForm.ShowDialog();
         }
-
 
     }
 }
